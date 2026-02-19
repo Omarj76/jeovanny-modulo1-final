@@ -42,7 +42,7 @@ class Biblioteca:
         return "Préstamo no encontrado."
 
     def listar_libros(self):
-        self.cursor.execute("SELECT * FROM libros")
+        self.cursor.execute("SELECT id, titulo, autor, disponible FROM libros")
         return self.cursor.fetchall()
 
     def cerrar(self):

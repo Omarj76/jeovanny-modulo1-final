@@ -29,7 +29,7 @@ python nombre_del_archivo.py --test
 - **Privacidad**: Manejo mínimo de datos; cifrar información sensible cuando sea necesario
 - **Transparencia**: Código abierto para auditorías comunitarias
 - **Licencia**: MIT
-
+## 🤖 Desarrollo Asistido por Inteligencia Artificial
 ## 👤 Autor
 
 Proyecto de IA colaborativa para Talento Solutions
